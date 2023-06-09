@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Leaf Disease Detection</string>
+    <string name="description_for_button2">Button for selecting an image</string>
+    <string name="camera">Fotograf Çek</string>
+    <string name="Gallery">Fotograf Seç</string>
+    <string name="info">ilk olarak fotoğraf çekin veya galeriden fotoğraf seçin!</string>
+    <string name="detection">Bitkinizin hastalığı:</string>
+    <string name="more_info">Daha fazlasını öğrenmek için sonuca tıklayın.</string>
+</resources>
